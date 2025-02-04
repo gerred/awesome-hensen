@@ -58,6 +58,10 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 - [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
 * [DeepSeek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 
+### rwkv
+
+still reading background materials but of particular interest - stay tuned
+
 ## performance
 
 - [Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102) - toward maximizing as much of the compute that is available
