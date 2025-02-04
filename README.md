@@ -35,8 +35,8 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 ## reinforcement learning
 
-* [https://naklecha.notion.site/a-reinforcement-learning-guide](a reinforcement learning guide) - [@naklecha](https://x.com/naklecha) - a lovely breakdown of the fundamentals of reinforcement learning
-* [https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing](Qwen 0.5b on GRPO) -  - [@Dorialexander](https://x.com/dorialexander/) - see the magic of thinking by reinforcement learning with verifiable rewards, all in the space of a free google colab environment
+* [a reinforcement learning guide](https://naklecha.notion.site/a-reinforcement-learning-guide) - [@naklecha](https://x.com/naklecha) - a lovely breakdown of the fundamentals of reinforcement learning
+* [Qwen 0.5b on GRPO](https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing) - [@Dorialexander](https://x.com/dorialexander/) - see the magic of thinking by reinforcement learning with verifiable rewards, all in the space of a free google colab environment
 
 ## other topics
 
