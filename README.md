@@ -27,12 +27,13 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 * [entropix](https://github.com/xjdr-alt/entropix) - [@_xjdr](https://x.com/_xjdr) - what started it all, by swamp ogre himself
 * [MuZero: Mastering Go, chess, shogi, and Atari without rules](https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/)
+* [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) - understanding the "how" of chain of thought works and how it can scale
 
 ## performance
 
 ## mechanistic interpretability
 
-* [Open Problems in Mechanistic Interpretability](https://arxiv.org/pdf/2501.16496) - an up-to-date state of unresolved issues in mech interp
+* [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496) - an up-to-date state of unresolved issues in mech interp
 
 ## reinforcement learning
 
