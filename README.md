@@ -75,6 +75,10 @@ still reading background materials but of particular interest - stay tuned
 * [a reinforcement learning guide](https://naklecha.notion.site/a-reinforcement-learning-guide) - [@naklecha](https://x.com/naklecha) - a lovely breakdown of the fundamentals of reinforcement learning
 * [Qwen 0.5b on GRPO](https://colab.research.google.com/drive/1bfhs1FMLW3FGa8ydvkOZyBNxLYOu0Hev?usp=sharing) - [@Dorialexander](https://x.com/dorialexander/) - see the magic of thinking by reinforcement learning with verifiable rewards, all in the space of a free google colab environment
 
+## vision language models
+
+this is my jam, a massive amount coming here shortly
+
 ## other topics
 
 ## attribution
