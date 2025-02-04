@@ -72,6 +72,7 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 again, this is a curation, but if you really want to cite this, cite it as:
 
+```latex
 @misc{gerred_awesome_hensen,
   author       = {Gerred Dillon},
   title        = {Awesome Hensen},
@@ -80,4 +81,5 @@ again, this is a curation, but if you really want to cite this, cite it as:
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/gerred/awesome-hensen}},
 }
+```
 
