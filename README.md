@@ -4,7 +4,7 @@ Papers, code, notebooks, documentation, tutorials, and the ideas and implementat
 
 ## contributing
 
-open a PR. this is a growing repository, not currently inclusive of past, present, and future work. this repo likes:
+i'm still unpacking all of my resources and curating! things will get missed. open a PR. this is a growing repository, not currently inclusive of past, present, and future work. this repo likes:
 
 * research and engineering to solve problems
 * in depth resources made with care and love
