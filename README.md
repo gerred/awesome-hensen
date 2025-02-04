@@ -1,6 +1,6 @@
 # awesome-hensen
 
-Papers, code, notebooks, documentation, tutorials, and the ideas and implementations made by, in the orbit of, and of interest to the (semi-)anonymous humans and LLMs that has been described as the "[modern day bell labs](https://x.com/wordgrammer/status/1847682840785564056)".
+Papers, code, notebooks, documentation, tutorials, and the ideas and implementations made by, in the orbit of, and of interest to the group of (semi-)anonymous humans and AI that has been described as the "[modern day bell labs](https://x.com/wordgrammer/status/1847682840785564056)".
 
 ## contributing
 
