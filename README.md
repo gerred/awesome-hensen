@@ -32,6 +32,8 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 ## mechanistic interpretability
 
+* [Open Problems in Mechanistic Interpretability](https://arxiv.org/pdf/2501.16496) - an up-to-date state of unresolved issues in mech interp
+
 ## reinforcement learning
 
 * [a reinforcement learning guide](https://naklecha.notion.site/a-reinforcement-learning-guide) - [@naklecha](https://x.com/naklecha) - a lovely breakdown of the fundamentals of reinforcement learning
