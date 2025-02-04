@@ -14,6 +14,8 @@ i'm still unpacking all of my resources and curating! things will get missed. op
 
 where available, direct references to the authors and creators are provided.
 
+out of scope for this repo are the many excellent resources of the "standard" papers, how to learn ML, etc. I welcome "other topics" PRs to those lists, but I myself do not track that other than the few that I directly send others that more fit this format.
+
 this is not an official work or endorsed in any way. i was looking for a corpus of ideas and resources to separate the signal from noise for others, and this is my attempt at doing so.
 
 ## license
