@@ -70,7 +70,7 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 ## attribution
 
-again, this is a curation, but if you really want to cite this, cite it as:
+again, this is a curation, so you should cite the resources themselves, but if you really want to cite this, cite it as:
 
 ```latex
 @misc{gerred_awesome_hensen,
