@@ -23,11 +23,10 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/) - [@willccbb](https://x.com/willccbb) a comprehensive starting guide updated to June 2024
 
-## sampling, uncertainty, and reasoning
+## research of interest
 
 * [entropix](https://github.com/xjdr-alt/entropix) - [@_xjdr](https://x.com/_xjdr) - what started it all, by swamp ogre himself
-
-## model architecture
+* [MuZero: Mastering Go, chess, shogi, and Atari without rules](https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/)
 
 ## performance
 
