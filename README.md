@@ -35,7 +35,7 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 #### explainers
 
 - [Deepseek-v3 101](https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa) - [@himanshustwts](https://x.com/himanshustwts)
-- [Deepseek R1 for Everyone](https://trite-song-d6a.notion.site/)Deepseek-R1-for-Everyone-1860af77bef3806c9db5e5c2a256577d) - [neuralnets](https://cneuralnets.netlify.app/)
+- [Deepseek R1 for Everyone](https://trite-song-d6a.notion.site/) - [neuralnets](https://cneuralnets.netlify.app/)
 
 #### papers
 
