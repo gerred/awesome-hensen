@@ -58,6 +58,8 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 ## performance
 
+- [Efficiently Scaling Transformer Inference)(https://arxiv.org/abs/2211.05102) - toward maximizing as much of the compute that is available
+
 ## mechanistic interpretability
 
 * [Open Problems in Mechanistic Interpretability](https://arxiv.org/abs/2501.16496) - an up-to-date state of unresolved issues in mech interp
