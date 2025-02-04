@@ -10,6 +10,7 @@ open a PR. this is a growing repository, not currently inclusive of past, presen
 * in depth resources made with care and love
 * a general avoidance of product placements, proprietary tools and services
 * things I ultimately find are tasteful additions
+* obsessive notion drops and blog posts are high signal
 
 where available, direct references to the authors and creators are provided.
 
@@ -29,7 +30,14 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 * [MuZero: Mastering Go, chess, shogi, and Atari without rules](https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/)
 * [Chain of Thought Empowers Transformers to Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) - understanding the "how" of chain of thought works and how it can scale
 
-### deepseek papers
+### deepseek
+
+#### explainers
+
+- [Deepseek-v3 101](https://lunar-joke-35b.notion.site/Deepseek-v3-101-169ba4b6a3fa8090a7aacaee1a1cefaa) - [@himanshustwts](https://x.com/himanshustwts)
+- [Deepseek R1 for Everyone](https://trite-song-d6a.notion.site/)Deepseek-R1-for-Everyone-1860af77bef3806c9db5e5c2a256577d) - [neuralnets](https://cneuralnets.netlify.app/)
+
+#### papers
 
 - [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
 - [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)
