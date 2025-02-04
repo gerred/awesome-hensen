@@ -68,3 +68,16 @@ this is not an official work or endorsed in any way. i was looking for a corpus 
 
 ## other topics
 
+## attribution
+
+again, this is a curation, but if you really want to cite this, cite it as:
+
+@misc{gerred_awesome_hensen,
+  author       = {Gerred Dillon},
+  title        = {Awesome Hensen},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/gerred/awesome-hensen}},
+}
+
