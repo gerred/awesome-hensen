@@ -11,6 +11,7 @@ i'm still unpacking all of my resources and curating! things will get missed. op
 * a general avoidance of product placements, proprietary tools and services
 * things I ultimately find are tasteful additions
 * obsessive notion drops and blog posts are high signal
+* avoidant of self promotion (including my own)
 
 where available, direct references to the authors and creators are provided.
 
